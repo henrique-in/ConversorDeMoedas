@@ -6,6 +6,8 @@
 </h1>
 
 
+<img src="https://giphy.com/gifs/reactnative-f40h1ZeqnXyU4nqcTj">
+
 <h4 align="center">
 This application performs the conversion of currencies being the EUR and the USD to the BRL, through the consumption of an api.
 </h4>
