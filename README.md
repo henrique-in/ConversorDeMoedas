@@ -18,6 +18,7 @@ This application performs the conversion of currencies being the EUR and the USD
 This project was developed with the following technologies:
 
 -  [React-Native](https://facebook.github.io/react-native/)
+-  [React-Native](https://facebook.github.io/react-native/)
 - [The Free Currency Converter API].(https://free.currencyconverterapi.com)
 
 
